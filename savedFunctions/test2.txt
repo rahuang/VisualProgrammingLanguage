@@ -1,0 +1,1 @@
+function(name='function',param=[],do=[Print(x=321,y=122,printText=''), Print(x=577,y=217,printText=''), Print(x=433,y=330,printText='')])

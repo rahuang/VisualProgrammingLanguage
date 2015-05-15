@@ -1,0 +1,1 @@
+function(name='factorial',param=['n'],do=[IfStatement(x=359,y=167,condition='n == 0',do=[Return(x=359,y=177,returnText='1')],width=120,height=43), ElseStatement(x=353,y=320,do=[Return(x=353,y=330,returnText='n * factorial(n-1)')],width=120,height=43)])

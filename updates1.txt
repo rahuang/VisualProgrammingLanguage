@@ -1,0 +1,8 @@
+Updates:
+	-Added new functions such as for loops, while loops, and setting variables
+	-Added the Convert to Python button to display the python code in a better manner, rather than stdout
+	-Added input boxes to all the functions to easily input text, instead of right click dialog box
+	-Added the ability to change the function name and parameters
+	-Added the ability to print out the value of variables
+	-Added the ability to create new functions
+	-Added the ability to tab through all the functions that you created and close the tabs
